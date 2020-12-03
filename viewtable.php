@@ -8,7 +8,7 @@
 <!--create table structure using HTML first-->
 <table border="1">
 <tr>
-<th>Restaurant ID</th>
+<th>testtestgithub Restaurant ID</th>
 <th>Restaurant Name</th>
 <th>Address</th>
 <th>Phone</th>
